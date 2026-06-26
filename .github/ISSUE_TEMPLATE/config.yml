@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/orgs/EcosVeri/discussions
+    about: Use discussions for open-ended questions, ideas, and support.
+
