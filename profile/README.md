@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EcosVeri/.github/main/docs/assets/ecosveri-logo.svg" alt="EcosVeri - Evidence-first AI Infrastructure" width="760">
-</p>
-
 # EcosVeri
 
 Open-source infrastructure for evidence-first AI.
