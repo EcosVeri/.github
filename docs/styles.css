@@ -5,9 +5,9 @@
   --ink: #171717;
   --muted: #57534e;
   --line: #ded8ce;
-  --amber: #c57a19;
-  --green: #1f7a4d;
-  --blue: #295f8f;
+  --amber: #f4a85d;
+  --green: #5ed0c3;
+  --blue: #146b78;
 }
 
 * {
@@ -59,24 +59,10 @@ nav,
 }
 
 .brand-mark {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
   width: 40px;
   aspect-ratio: 1;
-  border: 2px solid var(--ink);
-  background: var(--surface);
-  font-size: 12px;
-  line-height: 1;
-  text-align: center;
-}
-
-.brand-mark span:first-child {
-  color: var(--amber);
-}
-
-.brand-mark span:last-child {
-  color: var(--green);
+  border-radius: 8px;
+  display: block;
 }
 
 nav {
@@ -311,4 +297,3 @@ article p {
     grid-template-columns: 1fr;
   }
 }
-

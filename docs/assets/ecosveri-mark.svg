@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">EcosVeri mark</title>
+  <desc id="desc">Square EcosVeri EV mark with amber E, teal V, and charcoal background.</desc>
+  <rect width="512" height="512" rx="92" fill="#101820"/>
+  <g transform="translate(26 26) scale(.9)">
+    <path d="M112 116h204v64H190v48h104v56H190v48h132v64H112V116Z" fill="#f4a85d"/>
+    <path d="M286 116h58l34 189 70-189h58L398 396h-67L286 116Z" fill="#5ed0c3"/>
+  </g>
+</svg>
