@@ -1,6 +1,6 @@
 # Contributing to EcosVeri
 
-Thanks for helping build EcosVeri. The project is early, so clear issues, small pull requests, and practical examples are especially valuable.
+Thanks for helping build EcosVeri. Clear issues, focused pull requests, and practical examples are especially valuable.
 
 ## How to contribute
 
@@ -20,4 +20,3 @@ Thanks for helping build EcosVeri. The project is early, so clear issues, small 
 ## Review
 
 Maintainers may ask for changes to improve clarity, test coverage, documentation, or long-term maintenance. Review is collaborative; directness is welcome when it stays kind and specific.
-

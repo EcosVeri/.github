@@ -1,8 +1,8 @@
 # EcosVeri
 
-Building open-source infrastructure for trustworthy AI.
+Open-source infrastructure for evidence-first AI.
 
-EcosVeri is an engineering organization for evidence-first AI systems, intelligent retrieval, search, knowledge graphs, and scientific computing.
+EcosVeri builds practical tools for trustworthy AI workflows: retrieval, search, knowledge graphs, evidence verification, multimodal processing, and scientific computing.
 
 ## Projects
 
@@ -18,11 +18,10 @@ EcosVeri is an engineering organization for evidence-first AI systems, intellige
 ## Principles
 
 - Evidence before assertion.
-- Open interfaces over closed workflows.
 - Reproducible research and transparent evaluation.
+- Open interfaces over closed workflows.
 - Python for product velocity, Rust for performance-critical systems, and R for statistical and scientific computing.
 
 ## Status
 
-EcosVeri is in early formation. Public repositories, documentation, and contribution pathways will appear here as the ecosystem takes shape.
-
+EcosVeri is in early formation. Public repositories and documentation will be published as individual projects mature.

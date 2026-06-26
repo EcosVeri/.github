@@ -1,6 +1,6 @@
 # Support
 
-EcosVeri is in early formation. Public support will happen through GitHub issues and discussions once the organization repositories are live.
+EcosVeri support happens in the open through GitHub issues and discussions.
 
 ## Questions
 
@@ -13,4 +13,3 @@ Use GitHub Issues for reproducible bugs, incorrect behavior, documentation probl
 ## Security
 
 Do not use public issues for suspected vulnerabilities. Follow `SECURITY.md`.
-

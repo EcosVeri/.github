@@ -18,5 +18,4 @@ EcosVeri is committed to a welcoming, respectful, and productive open-source com
 
 ## Enforcement
 
-Maintainers may remove comments, close discussions, restrict participation, or ban contributors when behavior harms the community. Reports can be sent privately to the security contact listed in `SECURITY.md` until a dedicated conduct address exists.
-
+Maintainers may remove comments, close discussions, restrict participation, or ban contributors when behavior harms the community. Reports can be sent privately to project maintainers.
